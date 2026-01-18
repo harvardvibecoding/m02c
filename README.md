@@ -1,1 +1,1 @@
-# m2-project
+Basic app created. Starting point for style iterations.
