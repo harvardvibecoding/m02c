@@ -1,3 +1,11 @@
+### Headcount Simulator App
+### m02c/people_headcount_app.py
+###
+### Author: Sharon + GitHub Copilot
+### Date: Jan 20, 2026
+###
+### First prompt results, using GPT-5 mini.
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
@@ -83,4 +91,3 @@ if not selected.empty:
 
 st.markdown("---")
 st.caption(f"Roster source: `{CSV_PATH}` — total employees in roster: {total_employees}")
-
